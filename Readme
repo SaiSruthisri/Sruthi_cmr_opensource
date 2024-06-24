@@ -1,8 +1,8 @@
-Iris Recognition using Machine Learning Technique
+**Iris Recognition using Machine Learning Technique**
 
 This project focuses on iris recognition using machine learning techniques. The application utilizes a Convolutional Neural Network (CNN) model to identify individuals based on their iris patterns.
 
-*Description*
+**Description**
 
 Iris recognition is a biometric identification method that uses pattern-recognition techniques based on high-resolution images of the irises of an individual's eyes. This project leverages machine learning to perform iris recognition. The main features include:
 
@@ -13,13 +13,13 @@ Iris recognition is a biometric identification method that uses pattern-recognit
 - Predicting the identity of a person based on a provided test iris image.
   
 
-*How To Run*
+**How To Run**
 
--Clone the repository & run the application main.py
+- Clone the repository & run the application main.py
 
-`python main.py`
+````python main.py````
 
-*Features*
+**Features**
 
 
 - Upload Dataset
@@ -48,7 +48,7 @@ Iris recognition is a biometric identification method that uses pattern-recognit
   ![WhatsApp Image 2024-06-23 at 22 32 33_ae9deded](https://github.com/SaiSruthisri/Sruthi_cmr_opensource/assets/148372065/5c693e33-387f-4048-a372-20fb946cb9bf)
 
 
-*Troubleshooting*
+**Troubleshooting**
 
 - Model Not Found : Ensure the model.json and model_weights.h5 files are present in the model directory.
 
@@ -56,7 +56,7 @@ Iris recognition is a biometric identification method that uses pattern-recognit
 
 - No Iris Found : Ensure the test image is clear and contains a visible iris.
 
-*Acknowledgments*
+**Acknowledgments**
 
 - CASIA Iris Image Database for providing the dataset used in this project.
 
